@@ -1,0 +1,19 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+ul[class],
+ol[class] {
+  padding: 0;
+  list-style: none;
+}
+
+html {
+  scroll-behaviour: smooth;
+  font-size: 16px;
+  font-family: 'Lato';
+  line-height: 24px;
+}

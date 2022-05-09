@@ -1,0 +1,12 @@
+{
+  "presets": [
+    "@babel/preset-typescript",
+    "@babel/preset-react",
+    "@linaria"
+  ],
+  "plugins": [
+    "@babel/proposal-class-properties",
+    "@babel/proposal-object-rest-spread",
+    "@babel/plugin-syntax-dynamic-import"
+  ]
+}
